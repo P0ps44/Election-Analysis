@@ -3,8 +3,7 @@
 ## Overview
 
 Purpose of this election audit was to make sure the election votes were 
-correctly counted and to add addition data that can define  
-which county made the largest impact for the results.
+correctly counted and to add addition data that can define which county made the largest impact for the results.
 
 ### Election Results 
 
